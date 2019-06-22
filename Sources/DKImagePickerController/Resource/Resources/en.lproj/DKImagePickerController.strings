@@ -8,26 +8,24 @@
 //  Released under an MIT license: http://opensource.org/licenses/MIT
 //
 
-"permission.camera.title" = "Please Allow Camera Access";
+"permission.camera.title" = "الرجاء السماح بالدخول إلى الكاميرا";
 
-"permission.photo.title" = "Please Allow Photo Access";
+"permission.photo.title" = "الرجاء السماح بالدخول إلى الصور";
 
-"permission.allow" = "Allow Access";
+"permission.allow" = "السماح بالدخول";
 
-"picker.albums" = "Albums";
+"picker.alert.ok" = "نعم";
 
-"picker.alert.ok" = "OK";
+"picker.select.title" = "حدد(%@)";
 
-"picker.select.title" = "Select(%@)";
+"picker.select.done.title" = "تم";
 
-"picker.select.done.title" = "Done";
+"picker.select.all.title" = "اختر الكل";
 
-"picker.select.all.title" = "Select All";
+"picker.select.photosOrVideos.error.title" = "حدد صور أو مقاطع فيديو";
 
-"picker.select.photosOrVideos.error.title" = "Select Photos or Videos";
+"picker.select.photosOrVideos.error.message" = "لا يمكن تحديد الصور ومقاطع الفيديو في نفس الوقت.";
 
-"picker.select.photosOrVideos.error.message" = "It is not possible to select photos and videos at the same time.";
+"picker.select.maxLimitReached.error.title" = "بلغت الصور الحد المسموح به";
 
-"picker.select.maxLimitReached.error.title" = "Max photos limit reached";
-
-"picker.select.maxLimitReached.error.message" = "You can select %@ items";
+"picker.select.maxLimitReached.error.message" = "يمكنك تحديد %@ من العناصر";
